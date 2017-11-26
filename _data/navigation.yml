@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Projects"
-    url: /pages/projects/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: /portfolio-archive/
+  - title: "About"
+    url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
